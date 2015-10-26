@@ -5,3 +5,5 @@
 [jenkins](../master/jenkins-ci.md)
 
 [apache2](../master/apache2-ci.md)
+
+[nodejs](../master/node-ci.md)
